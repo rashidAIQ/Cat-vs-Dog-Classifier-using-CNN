@@ -1,3 +1,4 @@
+![Notebook CI](https://github.com/rashidAIQ/ Cat vs Dog Classifier using CNN/actions/workflows/notebook-ci.yml/badge.svg)
 # 🐱 Cat vs Dog Classifier using CNN
 
 ## 📌 Overview
